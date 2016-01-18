@@ -1,0 +1,22 @@
+== Python ==
+1. <<Learning python the hardway>>
+2. <<python cookbook>>
+
+== HTML5(Javascript&Html&CSS(3)) ==
+
+== Programming  ==
+
+== Maths ==
+
+== AI&AR ==
+
+== Computer Basics ==
+
+== Readings&Learnings:-) == 
+
+=== Humans&economics ===
+
+
+
+
+
